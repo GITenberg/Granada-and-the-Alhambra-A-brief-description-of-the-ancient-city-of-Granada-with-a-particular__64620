@@ -1,0 +1,33 @@
+_repo: Granada-and-the-Alhambra-A-brief-description-of-the-ancient-city-of-Granada-with-a-particular__64620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calvert, Albert Frederick
+    aliases:
+    - Calvert, A. F. (Albert Frederick)
+    - Calvert, Albert F.
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '39139'
+    url: http://www.gutenberg.org/2009/agents/39139
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
+description: ''
+gutenberg_issued: '2021-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64620'
+  lccn: w08000007
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Spanish series
+subjects:
+- !lcc 'DP'
+- !lcsh 'Art -- Spain -- Granada'
+- !lcsh 'Granada (Spain) -- Description and travel'
+- !lcsh 'Alhambra (Granada, Spain)'
+- GITenberg
+title: "Granada and the Alhambra\r\nA brief description of the ancient city of Granada,\
+  \ with a particular account of the Moorish palace"
+url: http://www.gutenberg.org/ebooks/64620
